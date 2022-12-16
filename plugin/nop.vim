@@ -1,53 +1,53 @@
 " Normal mode
-nnoremap <buffer> <Left>         <Nop>
-nnoremap <buffer> <Down>         <Nop>
-nnoremap <buffer> <Up>           <Nop>
-nnoremap <buffer> <Right>        <Nop>
+nnoremap <Left>         <Nop>
+nnoremap <Down>         <Nop>
+nnoremap <Up>           <Nop>
+nnoremap <Right>        <Nop>
 
-nnoremap <buffer> <PageUp>       <Nop>
-nnoremap <buffer> <PageDown>     <Nop>
-nnoremap <buffer> <Home>         <Nop>
-nnoremap <buffer> <End>          <Nop>
+nnoremap <PageUp>       <Nop>
+nnoremap <PageDown>     <Nop>
+nnoremap <Home>         <Nop>
+nnoremap <End>          <Nop>
 
-nnoremap <buffer> h              <Nop>
-nnoremap <buffer> j              <Nop>
-nnoremap <buffer> k              <Nop>
-nnoremap <buffer> l              <Nop>
+nnoremap h              <Nop>
+nnoremap j              <Nop>
+nnoremap k              <Nop>
+nnoremap l              <Nop>
 
-nnoremap <buffer> <BS>           <Nop>
-nnoremap <buffer> <Space>        <Nop>
-nnoremap <buffer> <NL>           <Nop>
-nnoremap <buffer> <CR>           <Nop>
+nnoremap <BS>           <Nop>
+nnoremap <Space>        <Nop>
+nnoremap <NL>           <Nop>
+nnoremap <CR>           <Nop>
 
 " Visual mode
-vnoremap <buffer> <Left>         <Nop>
-vnoremap <buffer> <Down>         <Nop>
-vnoremap <buffer> <Up>           <Nop>
-vnoremap <buffer> <Right>        <Nop>
+vnoremap <Left>         <Nop>
+vnoremap <Down>         <Nop>
+vnoremap <Up>           <Nop>
+vnoremap <Right>        <Nop>
 
-vnoremap <buffer> <PageUp>       <Nop>
-vnoremap <buffer> <PageDown>     <Nop>
-vnoremap <buffer> <Home>         <Nop>
-vnoremap <buffer> <End>          <Nop>
+vnoremap <PageUp>       <Nop>
+vnoremap <PageDown>     <Nop>
+vnoremap <Home>         <Nop>
+vnoremap <End>          <Nop>
 
-vnoremap <buffer> h              <Nop>
-vnoremap <buffer> j              <Nop>
-vnoremap <buffer> k              <Nop>
-vnoremap <buffer> l              <Nop>
+vnoremap h              <Nop>
+vnoremap j              <Nop>
+vnoremap k              <Nop>
+vnoremap l              <Nop>
 
-vnoremap <buffer> <BS>           <Nop>
-vnoremap <buffer> <Space>        <Nop>
-vnoremap <buffer> <NL>           <Nop>
-vnoremap <buffer> <CR>           <Nop>
+vnoremap <BS>           <Nop>
+vnoremap <Space>        <Nop>
+vnoremap <NL>           <Nop>
+vnoremap <CR>           <Nop>
 
 " Insert mode
-inoremap <buffer> <Left>         <Nop>
-inoremap <buffer> <Down>         <Nop>
-inoremap <buffer> <Up>           <Nop>
-inoremap <buffer> <Right>        <Nop>
+inoremap <Left>         <Nop>
+inoremap <Down>         <Nop>
+inoremap <Up>           <Nop>
+inoremap <Right>        <Nop>
 
-inoremap <buffer> <PageUp>       <Nop>
-inoremap <buffer> <PageDown>     <Nop>
-inoremap <buffer> <Home>         <Nop>
-inoremap <buffer> <End>          <Nop>
+inoremap <PageUp>       <Nop>
+inoremap <PageDown>     <Nop>
+inoremap <Home>         <Nop>
+inoremap <End>          <Nop>
 
