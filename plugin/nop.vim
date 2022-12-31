@@ -51,3 +51,4 @@ inoremap <PageDown>     <Nop>
 inoremap <Home>         <Nop>
 inoremap <End>          <Nop>
 
+set backspace=0
