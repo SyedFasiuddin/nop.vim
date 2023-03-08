@@ -10,8 +10,8 @@ nnoremap <Home>         <Nop>
 nnoremap <End>          <Nop>
 
 nnoremap h              <Nop>
-nnoremap j              <Nop>
-nnoremap k              <Nop>
+" nnoremap j              <Nop>
+" nnoremap k              <Nop>
 nnoremap l              <Nop>
 
 nnoremap <BS>           <Nop>
@@ -31,8 +31,8 @@ vnoremap <Home>         <Nop>
 vnoremap <End>          <Nop>
 
 vnoremap h              <Nop>
-vnoremap j              <Nop>
-vnoremap k              <Nop>
+" vnoremap j              <Nop>
+" vnoremap k              <Nop>
 vnoremap l              <Nop>
 
 vnoremap <BS>           <Nop>
